@@ -1,0 +1,11 @@
+
+#navbar{
+    position: fixed;
+    left: 0px;
+    top: 0px;
+}
+@media (min-width: 640px) {
+    #navbar {
+      visibility: visible;
+    }
+}
